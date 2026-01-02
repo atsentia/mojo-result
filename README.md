@@ -97,7 +97,7 @@ mojo run tests/test_result.mojo
 
 ## License
 
-MIT
+Apache 2.0
 
 ## Part of mojo-contrib
 
